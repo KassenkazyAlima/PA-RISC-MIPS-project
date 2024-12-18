@@ -5,7 +5,7 @@ This project compares PA-RISC and MIPS R2000 architectures. The implementation i
 
 Ensure the following software and tools are installed before running the program:
 - MARS Emulator (Version 4.5 or later)
-**Download Link: MARS 4.5**
+Install MARS: https://github.com/dpetersanderson/MARS/releases/tag/v.4.5.1
 - Java Runtime Environment (JRE) is required to run MARS.
 - Git for version control
 Install Git: https://git-scm.com/
