@@ -1,0 +1,14 @@
+# MacOS system files
+.DS_Store
+
+# Log files
+*.log
+
+# Compiled files
+*.class
+*.o
+*.out
+
+# Emulator files
+emulator_output.txt
+screenshots/
