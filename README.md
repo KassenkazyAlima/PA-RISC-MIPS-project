@@ -14,10 +14,9 @@ Install Git: https://git-scm.com/
 - Text Editor (Visual Studio Code or any editor that supports assembly files.)
 
 
-## Project Structure  
-- **src/**: Contains the MIPS program (`main.asm`).  
-- **docs/**: Project report in PDF.  
-- **screenshots/**: Execution results.  
+## Structure  
+- **src/**: Contains the MIPS program (`main.asm`).
+- README.md file  
 
 ## How to Run  
 1. Open `src/main.asm` in MARS.  
