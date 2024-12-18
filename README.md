@@ -12,6 +12,7 @@ This project compares PA-RISC and MIPS R2000 architectures. The implementation i
 1. Open `src/main.asm` in MARS.  
 2. Click "Assemble" and "Run".  
 
+-----
  
 1. University of Wolverhampton (2022). Harvard Referencing Guide.  
 2. MARS Official Website: [MARS Simulator](http://courses.missouristate.edu/KenVollmar/MARS/)
